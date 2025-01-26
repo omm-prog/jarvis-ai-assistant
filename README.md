@@ -62,3 +62,13 @@ The following libraries are required for this project:
 To install all dependencies, run:
 ```bash
 pip install -r requirements.txt
+```
+## 📝 Usage Examples
+
+Here are some example commands you can give to Jarvis:
+
+- **"Open Chrome"** → Opens the Google Chrome browser.
+- **"Search for Python programming on Google"** → Performs a Google search for Python programming.
+- **"Tell me the time"** → Reads out the current time.
+- **"What is artificial intelligence?"** → Fetches and reads a summary from Wikipedia.
+
