@@ -72,3 +72,18 @@ Here are some example commands you can give to Jarvis:
 - **"Tell me the time"** → Reads out the current time.
 - **"What is artificial intelligence?"** → Fetches and reads a summary from Wikipedia.
 
+
+
+## 🔄 Ongoing Development
+
+Jarvis-AI-Assistant is an actively developed project. New features and improvements are continuously being added. If you have any suggestions or would like to contribute, feel free to open an issue or submit a pull request!
+
+Currently, the project is focusing on:
+
+- Enhancing voice command recognition.
+- Adding more automation capabilities, such as controlling IoT devices.
+- Improving response accuracy and interaction speed.
+- Integrating additional APIs for news, weather updates, and more.
+
+Stay tuned for further updates! 😊
+
